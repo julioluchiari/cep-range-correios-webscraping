@@ -1,0 +1,5287 @@
+[
+  {
+    "locale": "Adamantina",
+    "zipcode_from": "17800000",
+    "zipcode_to": "17809999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Adolfo",
+    "zipcode_from": "15230000",
+    "zipcode_to": "15239999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Aguaí",
+    "zipcode_from": "13860000",
+    "zipcode_to": "13869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Águas da Prata",
+    "zipcode_from": "13890000",
+    "zipcode_to": "13899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Águas de Lindóia",
+    "zipcode_from": "13940000",
+    "zipcode_to": "13949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Águas de Santa Bárbara",
+    "zipcode_from": "18770000",
+    "zipcode_to": "18774999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Águas de São Pedro",
+    "zipcode_from": "13525000",
+    "zipcode_to": "13529999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Agudos",
+    "zipcode_from": "17120000",
+    "zipcode_to": "17149999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Alambari",
+    "zipcode_from": "18220000",
+    "zipcode_to": "18224999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Alfredo Marcondes",
+    "zipcode_from": "19180000",
+    "zipcode_to": "19189999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Altair",
+    "zipcode_from": "15430000",
+    "zipcode_to": "15439999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Altinópolis",
+    "zipcode_from": "14350000",
+    "zipcode_to": "14389999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Alto Alegre",
+    "zipcode_from": "16310000",
+    "zipcode_to": "16339999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Alumínio",
+    "zipcode_from": "18125000",
+    "zipcode_to": "18129999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Álvares Florence",
+    "zipcode_from": "15540000",
+    "zipcode_to": "15549999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Álvares Machado",
+    "zipcode_from": "19160000",
+    "zipcode_to": "19179999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Álvaro de Carvalho",
+    "zipcode_from": "17410000",
+    "zipcode_to": "17419999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Alvinlândia",
+    "zipcode_from": "17430000",
+    "zipcode_to": "17439999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Americana",
+    "zipcode_from": "13465001",
+    "zipcode_to": "13479999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Americana",
+    "zipcode_from": "13465001",
+    "zipcode_to": "13479999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Américo Brasiliense",
+    "zipcode_from": "14820000",
+    "zipcode_to": "14824999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Américo de Campos",
+    "zipcode_from": "15550000",
+    "zipcode_to": "15559999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Amparo",
+    "zipcode_from": "13900001",
+    "zipcode_to": "13909999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Amparo",
+    "zipcode_from": "13900001",
+    "zipcode_to": "13909999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Analândia",
+    "zipcode_from": "13550000",
+    "zipcode_to": "13559999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Andradina",
+    "zipcode_from": "16900001",
+    "zipcode_to": "16919999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Andradina",
+    "zipcode_from": "16900001",
+    "zipcode_to": "16914999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Angatuba",
+    "zipcode_from": "18240000",
+    "zipcode_to": "18244999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Anhembi",
+    "zipcode_from": "18620000",
+    "zipcode_to": "18639999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Anhumas",
+    "zipcode_from": "19580000",
+    "zipcode_to": "19589999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Aparecida",
+    "zipcode_from": "12570000",
+    "zipcode_to": "12579999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Aparecida D'Oeste",
+    "zipcode_from": "15735000",
+    "zipcode_to": "15739999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Apiaí",
+    "zipcode_from": "18320000",
+    "zipcode_to": "18324999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Araçariguama",
+    "zipcode_from": "18147000",
+    "zipcode_to": "18149999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Araçatuba",
+    "zipcode_from": "16000001",
+    "zipcode_to": "16129999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Araçatuba",
+    "zipcode_from": "16000001",
+    "zipcode_to": "16129999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Araçoiaba da Serra",
+    "zipcode_from": "18190000",
+    "zipcode_to": "18194999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Aramina",
+    "zipcode_from": "14550000",
+    "zipcode_to": "14569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Arandu",
+    "zipcode_from": "18710000",
+    "zipcode_to": "18719999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Arapeí",
+    "zipcode_from": "12870000",
+    "zipcode_to": "12899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Araraquara",
+    "zipcode_from": "14800001",
+    "zipcode_to": "14812999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Araraquara",
+    "zipcode_from": "14800001",
+    "zipcode_to": "14811999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Araras",
+    "zipcode_from": "13600001",
+    "zipcode_to": "13609999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Araras",
+    "zipcode_from": "13600001",
+    "zipcode_to": "13609999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Arco-Íris",
+    "zipcode_from": "17630000",
+    "zipcode_to": "17649999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Arealva",
+    "zipcode_from": "17160000",
+    "zipcode_to": "17179999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Areias",
+    "zipcode_from": "12820000",
+    "zipcode_to": "12829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Areiópolis",
+    "zipcode_from": "18670000",
+    "zipcode_to": "18674999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ariranha",
+    "zipcode_from": "15960000",
+    "zipcode_to": "15969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Artur Nogueira",
+    "zipcode_from": "13160000",
+    "zipcode_to": "13164999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Arujá",
+    "zipcode_from": "07400001",
+    "zipcode_to": "07499999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Arujá",
+    "zipcode_from": "07400001",
+    "zipcode_to": "07499999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Aspásia",
+    "zipcode_from": "15763000",
+    "zipcode_to": "15764999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Assis",
+    "zipcode_from": "19800001",
+    "zipcode_to": "19819999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Assis",
+    "zipcode_from": "19800001",
+    "zipcode_to": "19819999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Atibaia",
+    "zipcode_from": "12940001",
+    "zipcode_to": "12954999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Atibaia",
+    "zipcode_from": "12940001",
+    "zipcode_to": "12954999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Auriflama",
+    "zipcode_from": "15350000",
+    "zipcode_to": "15354999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Avaí",
+    "zipcode_from": "16680000",
+    "zipcode_to": "16699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Avanhandava",
+    "zipcode_from": "16360000",
+    "zipcode_to": "16369999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Avaré",
+    "zipcode_from": "18700001",
+    "zipcode_to": "18709999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Avaré",
+    "zipcode_from": "18700001",
+    "zipcode_to": "18709999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Bady Bassitt",
+    "zipcode_from": "15115000",
+    "zipcode_to": "15119999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Balbinos",
+    "zipcode_from": "16640000",
+    "zipcode_to": "16649999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bálsamo",
+    "zipcode_from": "15140000",
+    "zipcode_to": "15144999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bananal",
+    "zipcode_from": "12850000",
+    "zipcode_to": "12869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barão de Antonina",
+    "zipcode_from": "18490000",
+    "zipcode_to": "18499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barbosa",
+    "zipcode_from": "16350000",
+    "zipcode_to": "16359999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bariri",
+    "zipcode_from": "17250000",
+    "zipcode_to": "17259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barra Bonita",
+    "zipcode_from": "17340000",
+    "zipcode_to": "17349999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barra do Chapéu",
+    "zipcode_from": "18325000",
+    "zipcode_to": "18329999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barra do Turvo",
+    "zipcode_from": "11955000",
+    "zipcode_to": "11959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barretos",
+    "zipcode_from": "14780001",
+    "zipcode_to": "14789999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barretos",
+    "zipcode_from": "14780001",
+    "zipcode_to": "14789999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Barrinha",
+    "zipcode_from": "14860000",
+    "zipcode_to": "14869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barueri",
+    "zipcode_from": "06400001",
+    "zipcode_to": "06499999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Barueri",
+    "zipcode_from": "06400001",
+    "zipcode_to": "06499999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Bastos",
+    "zipcode_from": "17690000",
+    "zipcode_to": "17699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Batatais",
+    "zipcode_from": "14300000",
+    "zipcode_to": "14339999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bauru",
+    "zipcode_from": "17000001",
+    "zipcode_to": "17119999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bauru",
+    "zipcode_from": "17000001",
+    "zipcode_to": "17110999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Bebedouro",
+    "zipcode_from": "14700001",
+    "zipcode_to": "14719999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bebedouro",
+    "zipcode_from": "14700001",
+    "zipcode_to": "14718999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Bento de Abreu",
+    "zipcode_from": "16790000",
+    "zipcode_to": "16799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bernardino de Campos",
+    "zipcode_from": "18960000",
+    "zipcode_to": "18969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bertioga",
+    "zipcode_from": "11250000",
+    "zipcode_to": "11299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bilac",
+    "zipcode_from": "16210000",
+    "zipcode_to": "16219999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Birigüi",
+    "zipcode_from": "16200001",
+    "zipcode_to": "16209999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Birigüi",
+    "zipcode_from": "16200001",
+    "zipcode_to": "16209999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Biritiba-Mirim",
+    "zipcode_from": "08940000",
+    "zipcode_to": "08969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Boa Esperança do Sul",
+    "zipcode_from": "14930000",
+    "zipcode_to": "14934999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bocaina",
+    "zipcode_from": "17240000",
+    "zipcode_to": "17249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bofete",
+    "zipcode_from": "18590000",
+    "zipcode_to": "18599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Boituva",
+    "zipcode_from": "18550000",
+    "zipcode_to": "18559999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bom Jesus dos Perdões",
+    "zipcode_from": "12955000",
+    "zipcode_to": "12959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bom Sucesso de Itararé",
+    "zipcode_from": "18475000",
+    "zipcode_to": "18479999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Borá",
+    "zipcode_from": "19740000",
+    "zipcode_to": "19749999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Boracéia",
+    "zipcode_from": "17270000",
+    "zipcode_to": "17279999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Borborema",
+    "zipcode_from": "14955000",
+    "zipcode_to": "14959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Borebi",
+    "zipcode_from": "18675000",
+    "zipcode_to": "18679999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Botucatu",
+    "zipcode_from": "18600001",
+    "zipcode_to": "18619999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Botucatu",
+    "zipcode_from": "18600001",
+    "zipcode_to": "18619999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Bragança Paulista",
+    "zipcode_from": "12900001",
+    "zipcode_to": "12929999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Bragança Paulista",
+    "zipcode_from": "12900001",
+    "zipcode_to": "12929999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Braúna",
+    "zipcode_from": "16290000",
+    "zipcode_to": "16299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Brejo Alegre",
+    "zipcode_from": "16265000",
+    "zipcode_to": "16269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Brodowski",
+    "zipcode_from": "14340000",
+    "zipcode_to": "14349999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Brotas",
+    "zipcode_from": "17380000",
+    "zipcode_to": "17399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Buri",
+    "zipcode_from": "18290000",
+    "zipcode_to": "18299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Buritama",
+    "zipcode_from": "15290000",
+    "zipcode_to": "15299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Buritizal",
+    "zipcode_from": "14570000",
+    "zipcode_to": "14579999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cabrália Paulista",
+    "zipcode_from": "17480000",
+    "zipcode_to": "17489999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cabreúva",
+    "zipcode_from": "13315000",
+    "zipcode_to": "13319999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caçapava",
+    "zipcode_from": "12280001",
+    "zipcode_to": "12299999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caçapava",
+    "zipcode_from": "12280001",
+    "zipcode_to": "12299999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Cachoeira Paulista",
+    "zipcode_from": "12630000",
+    "zipcode_to": "12689999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caconde",
+    "zipcode_from": "13770000",
+    "zipcode_to": "13779999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cafelândia",
+    "zipcode_from": "16500000",
+    "zipcode_to": "16569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caiabu",
+    "zipcode_from": "19530000",
+    "zipcode_to": "19559999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caieiras",
+    "zipcode_from": "07700001",
+    "zipcode_to": "07749999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caieiras",
+    "zipcode_from": "07700001",
+    "zipcode_to": "07749999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Caiuá",
+    "zipcode_from": "19450000",
+    "zipcode_to": "19469999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cajamar",
+    "zipcode_from": "07750001",
+    "zipcode_to": "07799999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cajamar",
+    "zipcode_from": "07750001",
+    "zipcode_to": "07799999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Cajati",
+    "zipcode_from": "11950000",
+    "zipcode_to": "11954999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cajobi",
+    "zipcode_from": "15410000",
+    "zipcode_to": "15419999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cajuru",
+    "zipcode_from": "14240000",
+    "zipcode_to": "14249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Campina do Monte Alegre",
+    "zipcode_from": "18245000",
+    "zipcode_to": "18249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Campinas",
+    "zipcode_from": "13000001",
+    "zipcode_to": "13139999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Campinas",
+    "zipcode_from": "13000001",
+    "zipcode_to": "13139999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Campo Limpo Paulista",
+    "zipcode_from": "13230001",
+    "zipcode_to": "13239999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Campo Limpo Paulista",
+    "zipcode_from": "13230001",
+    "zipcode_to": "13239999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Campos do Jordão",
+    "zipcode_from": "12460000",
+    "zipcode_to": "12489999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Campos Novos Paulista",
+    "zipcode_from": "19960000",
+    "zipcode_to": "19969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cananéia",
+    "zipcode_from": "11990000",
+    "zipcode_to": "11999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Canas",
+    "zipcode_from": "12615000",
+    "zipcode_to": "12619999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cândido Mota",
+    "zipcode_from": "19880000",
+    "zipcode_to": "19899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cândido Rodrigues",
+    "zipcode_from": "15930000",
+    "zipcode_to": "15939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Canitar",
+    "zipcode_from": "18990000",
+    "zipcode_to": "18999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Capão Bonito",
+    "zipcode_from": "18300001",
+    "zipcode_to": "18309999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Capão Bonito",
+    "zipcode_from": "18300001",
+    "zipcode_to": "18308999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Capela do Alto",
+    "zipcode_from": "18195000",
+    "zipcode_to": "18199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Capivari",
+    "zipcode_from": "13360000",
+    "zipcode_to": "13369999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caraguatatuba",
+    "zipcode_from": "11660001",
+    "zipcode_to": "11679999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Caraguatatuba",
+    "zipcode_from": "11660001",
+    "zipcode_to": "11679999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Carapicuíba",
+    "zipcode_from": "06300001",
+    "zipcode_to": "06399999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Carapicuíba",
+    "zipcode_from": "06300001",
+    "zipcode_to": "06399999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Cardoso",
+    "zipcode_from": "15570000",
+    "zipcode_to": "15579999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Casa Branca",
+    "zipcode_from": "13700000",
+    "zipcode_to": "13709999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cássia dos Coqueiros",
+    "zipcode_from": "14260000",
+    "zipcode_to": "14269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Castilho",
+    "zipcode_from": "16920000",
+    "zipcode_to": "16939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Catanduva",
+    "zipcode_from": "15800001",
+    "zipcode_to": "15819999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Catanduva",
+    "zipcode_from": "15800001",
+    "zipcode_to": "15819999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Catiguá",
+    "zipcode_from": "15870000",
+    "zipcode_to": "15879999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cedral",
+    "zipcode_from": "15895000",
+    "zipcode_to": "15899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cerqueira César",
+    "zipcode_from": "18760000",
+    "zipcode_to": "18769999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cerquilho",
+    "zipcode_from": "18520000",
+    "zipcode_to": "18529999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cesário Lange",
+    "zipcode_from": "18285000",
+    "zipcode_to": "18289999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Charqueada",
+    "zipcode_from": "13515000",
+    "zipcode_to": "13519999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Chavantes",
+    "zipcode_from": "18970000",
+    "zipcode_to": "18989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Clementina",
+    "zipcode_from": "16250000",
+    "zipcode_to": "16259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Colina",
+    "zipcode_from": "14770000",
+    "zipcode_to": "14774999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Colômbia",
+    "zipcode_from": "14795000",
+    "zipcode_to": "14799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Conchal",
+    "zipcode_from": "13835000",
+    "zipcode_to": "13839999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Conchas",
+    "zipcode_from": "18570000",
+    "zipcode_to": "18579999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cordeirópolis",
+    "zipcode_from": "13490000",
+    "zipcode_to": "13494999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Coroados",
+    "zipcode_from": "16260000",
+    "zipcode_to": "16264999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Coronel Macedo",
+    "zipcode_from": "18745000",
+    "zipcode_to": "18759999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Corumbataí",
+    "zipcode_from": "13540000",
+    "zipcode_to": "13549999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cosmópolis",
+    "zipcode_from": "13150000",
+    "zipcode_to": "13159999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cosmorama",
+    "zipcode_from": "15530000",
+    "zipcode_to": "15539999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cotia",
+    "zipcode_from": "06700001",
+    "zipcode_to": "06729999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cotia",
+    "zipcode_from": "06700001",
+    "zipcode_to": "06729999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Cravinhos",
+    "zipcode_from": "14140000",
+    "zipcode_to": "14149999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cristais Paulista",
+    "zipcode_from": "14460000",
+    "zipcode_to": "14469999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cruzália",
+    "zipcode_from": "19860000",
+    "zipcode_to": "19864999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cruzeiro",
+    "zipcode_from": "12700001",
+    "zipcode_to": "12759999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cruzeiro",
+    "zipcode_from": "12700001",
+    "zipcode_to": "12759999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Cubatão",
+    "zipcode_from": "11500001",
+    "zipcode_to": "11599999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Cubatão",
+    "zipcode_from": "11500001",
+    "zipcode_to": "11599999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Cunha",
+    "zipcode_from": "12530000",
+    "zipcode_to": "12569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Descalvado",
+    "zipcode_from": "13690000",
+    "zipcode_to": "13699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Diadema",
+    "zipcode_from": "09900001",
+    "zipcode_to": "09999999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Diadema",
+    "zipcode_from": "09900001",
+    "zipcode_to": "09999999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Dirce Reis",
+    "zipcode_from": "15715000",
+    "zipcode_to": "15717999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Divinolândia",
+    "zipcode_from": "13780000",
+    "zipcode_to": "13789999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Dobrada",
+    "zipcode_from": "15980000",
+    "zipcode_to": "15989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Dois Córregos",
+    "zipcode_from": "17300000",
+    "zipcode_to": "17319999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Dolcinópolis",
+    "zipcode_from": "15740000",
+    "zipcode_to": "15744999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Dourado",
+    "zipcode_from": "13590000",
+    "zipcode_to": "13599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Dracena",
+    "zipcode_from": "17900000",
+    "zipcode_to": "17919999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Duartina",
+    "zipcode_from": "17470000",
+    "zipcode_to": "17474999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Dumont",
+    "zipcode_from": "14120000",
+    "zipcode_to": "14139999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Echaporã",
+    "zipcode_from": "19830000",
+    "zipcode_to": "19839999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Eldorado",
+    "zipcode_from": "11960000",
+    "zipcode_to": "11989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Elias Fausto",
+    "zipcode_from": "13350000",
+    "zipcode_to": "13359999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Elisiário",
+    "zipcode_from": "15823000",
+    "zipcode_to": "15824999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Embaúba",
+    "zipcode_from": "15425000",
+    "zipcode_to": "15429999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Embu das Artes",
+    "zipcode_from": "06800001",
+    "zipcode_to": "06849999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Embu das Artes",
+    "zipcode_from": "06800001",
+    "zipcode_to": "06849999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Embu-Guaçu",
+    "zipcode_from": "06900000",
+    "zipcode_to": "06949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Emilianópolis",
+    "zipcode_from": "19350000",
+    "zipcode_to": "19359999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Engenheiro Coelho",
+    "zipcode_from": "13165000",
+    "zipcode_to": "13169999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Espírito Santo do Pinhal",
+    "zipcode_from": "13990000",
+    "zipcode_to": "13994999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Espírito Santo do Turvo",
+    "zipcode_from": "18935000",
+    "zipcode_to": "18939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Estiva Gerbi",
+    "zipcode_from": "13857000",
+    "zipcode_to": "13859999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Estrela do Norte",
+    "zipcode_from": "19230000",
+    "zipcode_to": "19249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Estrela D'Oeste",
+    "zipcode_from": "15650000",
+    "zipcode_to": "15669999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Euclides da Cunha Paulista",
+    "zipcode_from": "19275000",
+    "zipcode_to": "19279999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Fartura",
+    "zipcode_from": "18870000",
+    "zipcode_to": "18889999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Fernando Prestes",
+    "zipcode_from": "15940000",
+    "zipcode_to": "15949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Fernandópolis",
+    "zipcode_from": "15600000",
+    "zipcode_to": "15619999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Fernão",
+    "zipcode_from": "17455000",
+    "zipcode_to": "17469999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ferraz de Vasconcelos",
+    "zipcode_from": "08500001",
+    "zipcode_to": "08549999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ferraz de Vasconcelos",
+    "zipcode_from": "08500001",
+    "zipcode_to": "08549999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Flora Rica",
+    "zipcode_from": "17870000",
+    "zipcode_to": "17879999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Floreal",
+    "zipcode_from": "15320000",
+    "zipcode_to": "15329999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Flórida Paulista",
+    "zipcode_from": "17830000",
+    "zipcode_to": "17859999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Florínia",
+    "zipcode_from": "19870000",
+    "zipcode_to": "19879999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Franca",
+    "zipcode_from": "14400001",
+    "zipcode_to": "14414999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Franca",
+    "zipcode_from": "14400001",
+    "zipcode_to": "14414999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Francisco Morato",
+    "zipcode_from": "07900001",
+    "zipcode_to": "07999999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Francisco Morato",
+    "zipcode_from": "07900001",
+    "zipcode_to": "07999999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Franco da Rocha",
+    "zipcode_from": "07800001",
+    "zipcode_to": "07899999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Franco da Rocha",
+    "zipcode_from": "07800001",
+    "zipcode_to": "07899999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Gabriel Monteiro",
+    "zipcode_from": "16220000",
+    "zipcode_to": "16229999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Gália",
+    "zipcode_from": "17450000",
+    "zipcode_to": "17454999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Garça",
+    "zipcode_from": "17400000",
+    "zipcode_to": "17409999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Gastão Vidigal",
+    "zipcode_from": "15330000",
+    "zipcode_to": "15339999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Gavião Peixoto",
+    "zipcode_from": "14813000",
+    "zipcode_to": "14814999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "General Salgado",
+    "zipcode_from": "15300000",
+    "zipcode_to": "15309999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Getulina",
+    "zipcode_from": "16450000",
+    "zipcode_to": "16479999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Glicério",
+    "zipcode_from": "16270000",
+    "zipcode_to": "16289999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaiçara",
+    "zipcode_from": "16430000",
+    "zipcode_to": "16439999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaimbê",
+    "zipcode_from": "16480000",
+    "zipcode_to": "16499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaíra",
+    "zipcode_from": "14790000",
+    "zipcode_to": "14794999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guapiaçu",
+    "zipcode_from": "15110000",
+    "zipcode_to": "15114999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guapiara",
+    "zipcode_from": "18310000",
+    "zipcode_to": "18314999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guará",
+    "zipcode_from": "14580000",
+    "zipcode_to": "14599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaraçaí",
+    "zipcode_from": "16980000",
+    "zipcode_to": "16999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaraci",
+    "zipcode_from": "15420000",
+    "zipcode_to": "15424999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guarani D'Oeste",
+    "zipcode_from": "15680000",
+    "zipcode_to": "15684999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guarantã",
+    "zipcode_from": "16570000",
+    "zipcode_to": "16599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guararapes",
+    "zipcode_from": "16700000",
+    "zipcode_to": "16749999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guararema",
+    "zipcode_from": "08900000",
+    "zipcode_to": "08939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaratinguetá",
+    "zipcode_from": "12500001",
+    "zipcode_to": "12524999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guaratinguetá",
+    "zipcode_from": "12500001",
+    "zipcode_to": "12524999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Guareí",
+    "zipcode_from": "18250000",
+    "zipcode_to": "18254999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guariba",
+    "zipcode_from": "14840000",
+    "zipcode_to": "14849999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guarujá",
+    "zipcode_from": "11400001",
+    "zipcode_to": "11499999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guarujá",
+    "zipcode_from": "11400001",
+    "zipcode_to": "11499999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Guarulhos",
+    "zipcode_from": "07000001",
+    "zipcode_to": "07399999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guarulhos",
+    "zipcode_from": "07000001",
+    "zipcode_to": "07399999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Guatapará",
+    "zipcode_from": "14115000",
+    "zipcode_to": "14119999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Guzolândia",
+    "zipcode_from": "15355000",
+    "zipcode_to": "15359999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Herculândia",
+    "zipcode_from": "17650000",
+    "zipcode_to": "17669999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Holambra",
+    "zipcode_from": "13825000",
+    "zipcode_to": "13829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Hortolândia",
+    "zipcode_from": "13183001",
+    "zipcode_to": "13189999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Hortolândia",
+    "zipcode_from": "13183001",
+    "zipcode_to": "13189999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Iacanga",
+    "zipcode_from": "17180000",
+    "zipcode_to": "17189999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iacri",
+    "zipcode_from": "17680000",
+    "zipcode_to": "17689999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iaras",
+    "zipcode_from": "18775000",
+    "zipcode_to": "18779999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ibaté",
+    "zipcode_from": "14815000",
+    "zipcode_to": "14819999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ibirá",
+    "zipcode_from": "15860000",
+    "zipcode_to": "15869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ibirarema",
+    "zipcode_from": "19940000",
+    "zipcode_to": "19959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ibitinga",
+    "zipcode_from": "14940000",
+    "zipcode_to": "14954999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ibiúna",
+    "zipcode_from": "18150000",
+    "zipcode_to": "18159999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Icém",
+    "zipcode_from": "15460000",
+    "zipcode_to": "15469999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iepê",
+    "zipcode_from": "19640000",
+    "zipcode_to": "19644999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Igaraçu do Tietê",
+    "zipcode_from": "17350000",
+    "zipcode_to": "17359999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Igarapava",
+    "zipcode_from": "14540000",
+    "zipcode_to": "14549999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Igaratá",
+    "zipcode_from": "12350000",
+    "zipcode_to": "12379999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iguape",
+    "zipcode_from": "11920000",
+    "zipcode_to": "11924999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ilha Comprida",
+    "zipcode_from": "11925000",
+    "zipcode_to": "11929999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ilha Solteira",
+    "zipcode_from": "15385000",
+    "zipcode_to": "15389999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ilhabela",
+    "zipcode_from": "11630000",
+    "zipcode_to": "11659999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Indaiatuba",
+    "zipcode_from": "13330001",
+    "zipcode_to": "13349999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Indaiatuba",
+    "zipcode_from": "13330001",
+    "zipcode_to": "13349999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Indiana",
+    "zipcode_from": "19560000",
+    "zipcode_to": "19569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Indiaporã",
+    "zipcode_from": "15690000",
+    "zipcode_to": "15699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Inúbia Paulista",
+    "zipcode_from": "17760000",
+    "zipcode_to": "17779999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ipaussu",
+    "zipcode_from": "18950000",
+    "zipcode_to": "18959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iperó",
+    "zipcode_from": "18560000",
+    "zipcode_to": "18569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ipeúna",
+    "zipcode_from": "13537000",
+    "zipcode_to": "13539999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ipiguá",
+    "zipcode_from": "15108000",
+    "zipcode_to": "15109999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iporanga",
+    "zipcode_from": "18330000",
+    "zipcode_to": "18359999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ipuã",
+    "zipcode_from": "14610000",
+    "zipcode_to": "14619999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Iracemápolis",
+    "zipcode_from": "13495000",
+    "zipcode_to": "13499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Irapuã",
+    "zipcode_from": "14990000",
+    "zipcode_to": "14999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Irapuru",
+    "zipcode_from": "17880000",
+    "zipcode_to": "17889999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaberá",
+    "zipcode_from": "18440000",
+    "zipcode_to": "18459999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaí",
+    "zipcode_from": "18730000",
+    "zipcode_to": "18739999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itajobi",
+    "zipcode_from": "15840000",
+    "zipcode_to": "15844999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaju",
+    "zipcode_from": "17260000",
+    "zipcode_to": "17269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itanhaém",
+    "zipcode_from": "11740000",
+    "zipcode_to": "11749999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaóca",
+    "zipcode_from": "18360000",
+    "zipcode_to": "18379999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapecerica da Serra",
+    "zipcode_from": "06850001",
+    "zipcode_to": "06889999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapecerica da Serra",
+    "zipcode_from": "06850001",
+    "zipcode_to": "06889999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itapetininga",
+    "zipcode_from": "18200001",
+    "zipcode_to": "18219999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapetininga",
+    "zipcode_from": "18200001",
+    "zipcode_to": "18215999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itapeva",
+    "zipcode_from": "18400001",
+    "zipcode_to": "18424999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapeva",
+    "zipcode_from": "18400001",
+    "zipcode_to": "18419999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itapevi",
+    "zipcode_from": "06650001",
+    "zipcode_to": "06699999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapevi",
+    "zipcode_from": "06650001",
+    "zipcode_to": "06699999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itapira",
+    "zipcode_from": "13970001",
+    "zipcode_to": "13989999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapira",
+    "zipcode_from": "13970001",
+    "zipcode_to": "13985999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itapirapuã Paulista",
+    "zipcode_from": "18385000",
+    "zipcode_to": "18399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itápolis",
+    "zipcode_from": "14900000",
+    "zipcode_to": "14909999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaporanga",
+    "zipcode_from": "18480000",
+    "zipcode_to": "18489999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapuí",
+    "zipcode_from": "17230000",
+    "zipcode_to": "17239999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itapura",
+    "zipcode_from": "15390000",
+    "zipcode_to": "15399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaquaquecetuba",
+    "zipcode_from": "08570001",
+    "zipcode_to": "08599999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itaquaquecetuba",
+    "zipcode_from": "08570001",
+    "zipcode_to": "08599999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itararé",
+    "zipcode_from": "18460000",
+    "zipcode_to": "18469999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itariri",
+    "zipcode_from": "11760000",
+    "zipcode_to": "11789999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itatiba",
+    "zipcode_from": "13250001",
+    "zipcode_to": "13259999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itatiba",
+    "zipcode_from": "13250001",
+    "zipcode_to": "13259999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itatinga",
+    "zipcode_from": "18690000",
+    "zipcode_to": "18699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itirapina",
+    "zipcode_from": "13530000",
+    "zipcode_to": "13536999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itirapuã",
+    "zipcode_from": "14420000",
+    "zipcode_to": "14429999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itobi",
+    "zipcode_from": "13715000",
+    "zipcode_to": "13719999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itu",
+    "zipcode_from": "13300001",
+    "zipcode_to": "13314999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Itu",
+    "zipcode_from": "13300001",
+    "zipcode_to": "13314999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Itupeva",
+    "zipcode_from": "13295000",
+    "zipcode_to": "13299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ituverava",
+    "zipcode_from": "14500000",
+    "zipcode_to": "14529999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jaborandi",
+    "zipcode_from": "14775000",
+    "zipcode_to": "14779999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jaboticabal",
+    "zipcode_from": "14870001",
+    "zipcode_to": "14899999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jaboticabal",
+    "zipcode_from": "14870001",
+    "zipcode_to": "14898999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Jacareí",
+    "zipcode_from": "12300001",
+    "zipcode_to": "12349999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jacareí",
+    "zipcode_from": "12300001",
+    "zipcode_to": "12349999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Jaci",
+    "zipcode_from": "15155000",
+    "zipcode_to": "15159999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jacupiranga",
+    "zipcode_from": "11940000",
+    "zipcode_to": "11949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jaguariúna",
+    "zipcode_from": "13820000",
+    "zipcode_to": "13824999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jales",
+    "zipcode_from": "15700001",
+    "zipcode_to": "15709999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jales",
+    "zipcode_from": "15700001",
+    "zipcode_to": "15709999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Jambeiro",
+    "zipcode_from": "12270000",
+    "zipcode_to": "12279999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jandira",
+    "zipcode_from": "06600001",
+    "zipcode_to": "06649999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jandira",
+    "zipcode_from": "06600001",
+    "zipcode_to": "06649999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Jardinópolis",
+    "zipcode_from": "14680000",
+    "zipcode_to": "14699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jarinu",
+    "zipcode_from": "13240000",
+    "zipcode_to": "13249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jaú",
+    "zipcode_from": "17200001",
+    "zipcode_to": "17229999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jaú",
+    "zipcode_from": "17200001",
+    "zipcode_to": "17220999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Jeriquara",
+    "zipcode_from": "14450000",
+    "zipcode_to": "14459999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Joanópolis",
+    "zipcode_from": "12980000",
+    "zipcode_to": "12989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "João Ramalho",
+    "zipcode_from": "19680000",
+    "zipcode_to": "19699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "José Bonifácio",
+    "zipcode_from": "15200000",
+    "zipcode_to": "15209999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Júlio Mesquita",
+    "zipcode_from": "17550000",
+    "zipcode_to": "17559999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jumirim",
+    "zipcode_from": "18535000",
+    "zipcode_to": "18539999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jundiaí",
+    "zipcode_from": "13200001",
+    "zipcode_to": "13219999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Jundiaí",
+    "zipcode_from": "13200001",
+    "zipcode_to": "13219999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Junqueirópolis",
+    "zipcode_from": "17890000",
+    "zipcode_to": "17899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Juquiá",
+    "zipcode_from": "11800000",
+    "zipcode_to": "11849999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Juquitiba",
+    "zipcode_from": "06950000",
+    "zipcode_to": "06999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lagoinha",
+    "zipcode_from": "12130000",
+    "zipcode_to": "12139999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Laranjal Paulista",
+    "zipcode_from": "18500000",
+    "zipcode_to": "18519999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lavínia",
+    "zipcode_from": "16850000",
+    "zipcode_to": "16879999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lavrinhas",
+    "zipcode_from": "12760000",
+    "zipcode_to": "12799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Leme",
+    "zipcode_from": "13610001",
+    "zipcode_to": "13624999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Leme",
+    "zipcode_from": "13610001",
+    "zipcode_to": "13624999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Lençóis Paulista",
+    "zipcode_from": "18680001",
+    "zipcode_to": "18689999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lençóis Paulista",
+    "zipcode_from": "18680001",
+    "zipcode_to": "18687999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Limeira",
+    "zipcode_from": "13480001",
+    "zipcode_to": "13489999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Limeira",
+    "zipcode_from": "13480001",
+    "zipcode_to": "13489999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Lindóia",
+    "zipcode_from": "13950000",
+    "zipcode_to": "13959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lins",
+    "zipcode_from": "16400001",
+    "zipcode_to": "16429999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lins",
+    "zipcode_from": "16400001",
+    "zipcode_to": "16419999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Lorena",
+    "zipcode_from": "12600001",
+    "zipcode_to": "12614999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lorena",
+    "zipcode_from": "12600001",
+    "zipcode_to": "12614999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Lourdes",
+    "zipcode_from": "15285000",
+    "zipcode_to": "15289999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Louveira",
+    "zipcode_from": "13290000",
+    "zipcode_to": "13294999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lucélia",
+    "zipcode_from": "17780000",
+    "zipcode_to": "17789999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lucianópolis",
+    "zipcode_from": "17475000",
+    "zipcode_to": "17479999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Luís Antônio",
+    "zipcode_from": "14210000",
+    "zipcode_to": "14229999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Luiziânia",
+    "zipcode_from": "16340000",
+    "zipcode_to": "16349999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lupércio",
+    "zipcode_from": "17420000",
+    "zipcode_to": "17429999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Lutécia",
+    "zipcode_from": "19750000",
+    "zipcode_to": "19769999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Macatuba",
+    "zipcode_from": "17290000",
+    "zipcode_to": "17299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Macaubal",
+    "zipcode_from": "15270000",
+    "zipcode_to": "15274999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Macedônia",
+    "zipcode_from": "15620000",
+    "zipcode_to": "15624999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mágda",
+    "zipcode_from": "15310000",
+    "zipcode_to": "15312999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mairinque",
+    "zipcode_from": "18120000",
+    "zipcode_to": "18124999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mairiporã",
+    "zipcode_from": "07600000",
+    "zipcode_to": "07699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Manduri",
+    "zipcode_from": "18780000",
+    "zipcode_to": "18789999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Marabá Paulista",
+    "zipcode_from": "19430000",
+    "zipcode_to": "19449999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Maracaí",
+    "zipcode_from": "19840000",
+    "zipcode_to": "19859999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Marapoama",
+    "zipcode_from": "15845000",
+    "zipcode_to": "15849999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mariápolis",
+    "zipcode_from": "17810000",
+    "zipcode_to": "17829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Marília",
+    "zipcode_from": "17500001",
+    "zipcode_to": "17539999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Marília",
+    "zipcode_from": "17500001",
+    "zipcode_to": "17539999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Marinópolis",
+    "zipcode_from": "15730000",
+    "zipcode_to": "15734999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Martinópolis",
+    "zipcode_from": "19500000",
+    "zipcode_to": "19529999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Matão",
+    "zipcode_from": "15990001",
+    "zipcode_to": "15999999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Matão",
+    "zipcode_from": "15990001",
+    "zipcode_to": "15999999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Mauá",
+    "zipcode_from": "09300001",
+    "zipcode_to": "09399999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mauá",
+    "zipcode_from": "09300001",
+    "zipcode_to": "09399999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Mendonça",
+    "zipcode_from": "15220000",
+    "zipcode_to": "15224999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Meridiano",
+    "zipcode_from": "15625000",
+    "zipcode_to": "15629999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mesópolis",
+    "zipcode_from": "15748000",
+    "zipcode_to": "15749999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Miguelópolis",
+    "zipcode_from": "14530000",
+    "zipcode_to": "14539999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mineiros do Tietê",
+    "zipcode_from": "17320000",
+    "zipcode_to": "17339999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mira Estrela",
+    "zipcode_from": "15580000",
+    "zipcode_to": "15599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Miracatu",
+    "zipcode_from": "11850000",
+    "zipcode_to": "11899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mirandópolis",
+    "zipcode_from": "16800000",
+    "zipcode_to": "16849999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mirante do Paranapanema",
+    "zipcode_from": "19260000",
+    "zipcode_to": "19272999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mirassol",
+    "zipcode_from": "15130000",
+    "zipcode_to": "15139999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mirassolândia",
+    "zipcode_from": "15145000",
+    "zipcode_to": "15149999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mococa",
+    "zipcode_from": "13730001",
+    "zipcode_to": "13759999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mococa",
+    "zipcode_from": "13730001",
+    "zipcode_to": "13749999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Mogi das Cruzes",
+    "zipcode_from": "08700001",
+    "zipcode_to": "08899999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mogi das Cruzes",
+    "zipcode_from": "08700001",
+    "zipcode_to": "08889999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Mogi Guaçu",
+    "zipcode_from": "13840001",
+    "zipcode_to": "13856999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mogi Guaçu",
+    "zipcode_from": "13840001",
+    "zipcode_to": "13855999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Mogi Mirim",
+    "zipcode_from": "13800001",
+    "zipcode_to": "13819999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mogi Mirim",
+    "zipcode_from": "13800001",
+    "zipcode_to": "13817999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Mombuca",
+    "zipcode_from": "13375000",
+    "zipcode_to": "13379999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monções",
+    "zipcode_from": "15275000",
+    "zipcode_to": "15279999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Mongaguá",
+    "zipcode_from": "11730000",
+    "zipcode_to": "11739999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monte Alegre do Sul",
+    "zipcode_from": "13910000",
+    "zipcode_to": "13919999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monte Alto",
+    "zipcode_from": "15910000",
+    "zipcode_to": "15919999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monte Aprazível",
+    "zipcode_from": "15150000",
+    "zipcode_to": "15154999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monte Azul Paulista",
+    "zipcode_from": "14730000",
+    "zipcode_to": "14734999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monte Castelo",
+    "zipcode_from": "17960000",
+    "zipcode_to": "17969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monte Mor",
+    "zipcode_from": "13190000",
+    "zipcode_to": "13199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Monteiro Lobato",
+    "zipcode_from": "12250000",
+    "zipcode_to": "12259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Morro Agudo",
+    "zipcode_from": "14640000",
+    "zipcode_to": "14659999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Morungaba",
+    "zipcode_from": "13260000",
+    "zipcode_to": "13269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Motuca",
+    "zipcode_from": "14835000",
+    "zipcode_to": "14839999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Murutinga do Sul",
+    "zipcode_from": "16950000",
+    "zipcode_to": "16979999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nantes",
+    "zipcode_from": "19645000",
+    "zipcode_to": "19679999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Narandiba",
+    "zipcode_from": "19220000",
+    "zipcode_to": "19229999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Natividade da Serra",
+    "zipcode_from": "12180000",
+    "zipcode_to": "12199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nazaré Paulista",
+    "zipcode_from": "12960000",
+    "zipcode_to": "12969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Neves Paulista",
+    "zipcode_from": "15120000",
+    "zipcode_to": "15129999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nhandeara",
+    "zipcode_from": "15190000",
+    "zipcode_to": "15199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nipoã",
+    "zipcode_from": "15240000",
+    "zipcode_to": "15249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Aliança",
+    "zipcode_from": "15210000",
+    "zipcode_to": "15219999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Campina",
+    "zipcode_from": "18435000",
+    "zipcode_to": "18439999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Canaã Paulista",
+    "zipcode_from": "15773000",
+    "zipcode_to": "15774999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Castilho",
+    "zipcode_from": "15313000",
+    "zipcode_to": "15314999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Europa",
+    "zipcode_from": "14920000",
+    "zipcode_to": "14929999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Granada",
+    "zipcode_from": "15440000",
+    "zipcode_to": "15449999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Guataporanga",
+    "zipcode_from": "17950000",
+    "zipcode_to": "17959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Independência",
+    "zipcode_from": "16940000",
+    "zipcode_to": "16949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Luzitânia",
+    "zipcode_from": "15340000",
+    "zipcode_to": "15349999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Odessa",
+    "zipcode_from": "13380001",
+    "zipcode_to": "13389999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nova Odessa",
+    "zipcode_from": "13380001",
+    "zipcode_to": "13389999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Novais",
+    "zipcode_from": "15885000",
+    "zipcode_to": "15889999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Novo Horizonte",
+    "zipcode_from": "14960000",
+    "zipcode_to": "14979999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Nuporanga",
+    "zipcode_from": "14670000",
+    "zipcode_to": "14679999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ocauçu",
+    "zipcode_from": "17540000",
+    "zipcode_to": "17549999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Óleo",
+    "zipcode_from": "18790000",
+    "zipcode_to": "18799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Olímpia",
+    "zipcode_from": "15400000",
+    "zipcode_to": "15409999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Onda Verde",
+    "zipcode_from": "15450000",
+    "zipcode_to": "15459999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Oriente",
+    "zipcode_from": "17570000",
+    "zipcode_to": "17579999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Orindiúva",
+    "zipcode_from": "15480000",
+    "zipcode_to": "15489999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Orlândia",
+    "zipcode_from": "14620000",
+    "zipcode_to": "14639999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Osasco",
+    "zipcode_from": "06000001",
+    "zipcode_to": "06299999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Osasco",
+    "zipcode_from": "06000001",
+    "zipcode_to": "06299999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Oscar Bressane",
+    "zipcode_from": "19770000",
+    "zipcode_to": "19779999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Osvaldo Cruz",
+    "zipcode_from": "17700000",
+    "zipcode_to": "17709999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ourinhos",
+    "zipcode_from": "19900001",
+    "zipcode_to": "19919999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ourinhos",
+    "zipcode_from": "19900001",
+    "zipcode_to": "19919999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Ouro Verde",
+    "zipcode_from": "17920000",
+    "zipcode_to": "17929999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ouroeste",
+    "zipcode_from": "15685000",
+    "zipcode_to": "15689999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pacaembu",
+    "zipcode_from": "17860000",
+    "zipcode_to": "17869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Palestina",
+    "zipcode_from": "15470000",
+    "zipcode_to": "15479999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Palmares Paulista",
+    "zipcode_from": "15828000",
+    "zipcode_to": "15829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Palmeira D'Oeste",
+    "zipcode_from": "15720000",
+    "zipcode_to": "15729999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Palmital",
+    "zipcode_from": "19970000",
+    "zipcode_to": "19989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Panorama",
+    "zipcode_from": "17980000",
+    "zipcode_to": "17989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paraguaçu Paulista",
+    "zipcode_from": "19700000",
+    "zipcode_to": "19739999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paraibuna",
+    "zipcode_from": "12260000",
+    "zipcode_to": "12269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paraíso",
+    "zipcode_from": "15825000",
+    "zipcode_to": "15827999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paranapanema",
+    "zipcode_from": "18720000",
+    "zipcode_to": "18729999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paranapuã",
+    "zipcode_from": "15745000",
+    "zipcode_to": "15747999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Parapuã",
+    "zipcode_from": "17730000",
+    "zipcode_to": "17739999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pardinho",
+    "zipcode_from": "18640000",
+    "zipcode_to": "18649999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pariquera-Açu",
+    "zipcode_from": "11930000",
+    "zipcode_to": "11939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Parisi",
+    "zipcode_from": "15525000",
+    "zipcode_to": "15529999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Patrocínio Paulista",
+    "zipcode_from": "14415000",
+    "zipcode_to": "14419999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paulicéia",
+    "zipcode_from": "17990000",
+    "zipcode_to": "17999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paulínia",
+    "zipcode_from": "13140001",
+    "zipcode_to": "13149999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paulínia",
+    "zipcode_from": "13140001",
+    "zipcode_to": "13149999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Paulistânia",
+    "zipcode_from": "17150000",
+    "zipcode_to": "17159999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Paulo de Faria",
+    "zipcode_from": "15490000",
+    "zipcode_to": "15494999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pederneiras",
+    "zipcode_from": "17280000",
+    "zipcode_to": "17289999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pedra Bela",
+    "zipcode_from": "12990000",
+    "zipcode_to": "12994999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pedranópolis",
+    "zipcode_from": "15630000",
+    "zipcode_to": "15639999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pedregulho",
+    "zipcode_from": "14470000",
+    "zipcode_to": "14489999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pedreira",
+    "zipcode_from": "13920000",
+    "zipcode_to": "13929999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pedrinhas Paulista",
+    "zipcode_from": "19865000",
+    "zipcode_to": "19869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pedro de Toledo",
+    "zipcode_from": "11790000",
+    "zipcode_to": "11799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Penápolis",
+    "zipcode_from": "16300001",
+    "zipcode_to": "16309999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Penápolis",
+    "zipcode_from": "16300001",
+    "zipcode_to": "16309999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Pereira Barreto",
+    "zipcode_from": "15370000",
+    "zipcode_to": "15379999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pereiras",
+    "zipcode_from": "18580000",
+    "zipcode_to": "18589999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Peruíbe",
+    "zipcode_from": "11750000",
+    "zipcode_to": "11759999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piacatu",
+    "zipcode_from": "16230000",
+    "zipcode_to": "16239999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piedade",
+    "zipcode_from": "18170000",
+    "zipcode_to": "18179999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pilar do Sul",
+    "zipcode_from": "18185000",
+    "zipcode_to": "18189999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pindamonhangaba",
+    "zipcode_from": "12400001",
+    "zipcode_to": "12449999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pindamonhangaba",
+    "zipcode_from": "12400001",
+    "zipcode_to": "12449999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Pindorama",
+    "zipcode_from": "15830000",
+    "zipcode_to": "15839999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pinhalzinho",
+    "zipcode_from": "12995000",
+    "zipcode_to": "12999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piquerobi",
+    "zipcode_from": "19410000",
+    "zipcode_to": "19429999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piquete",
+    "zipcode_from": "12620000",
+    "zipcode_to": "12629999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piracaia",
+    "zipcode_from": "12970000",
+    "zipcode_to": "12979999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piracicaba",
+    "zipcode_from": "13400001",
+    "zipcode_to": "13439999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Piracicaba",
+    "zipcode_from": "13400001",
+    "zipcode_to": "13434999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Piraju",
+    "zipcode_from": "18800000",
+    "zipcode_to": "18829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pirajuí",
+    "zipcode_from": "16600000",
+    "zipcode_to": "16639999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pirangi",
+    "zipcode_from": "15820000",
+    "zipcode_to": "15822999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pirapora do Bom Jesus",
+    "zipcode_from": "06550000",
+    "zipcode_to": "06599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pirapozinho",
+    "zipcode_from": "19200000",
+    "zipcode_to": "19209999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pirassununga",
+    "zipcode_from": "13630001",
+    "zipcode_to": "13649999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pirassununga",
+    "zipcode_from": "13630001",
+    "zipcode_to": "13644999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Piratininga",
+    "zipcode_from": "17490000",
+    "zipcode_to": "17499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pitangueiras",
+    "zipcode_from": "14750000",
+    "zipcode_to": "14764999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Planalto",
+    "zipcode_from": "15260000",
+    "zipcode_to": "15264999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Platina",
+    "zipcode_from": "19990000",
+    "zipcode_to": "19999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Poá",
+    "zipcode_from": "08550001",
+    "zipcode_to": "08569999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Poá",
+    "zipcode_from": "08550001",
+    "zipcode_to": "08569999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Poloni",
+    "zipcode_from": "15160000",
+    "zipcode_to": "15169999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pompéia",
+    "zipcode_from": "17580000",
+    "zipcode_to": "17589999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pongaí",
+    "zipcode_from": "16660000",
+    "zipcode_to": "16669999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pontal",
+    "zipcode_from": "14180000",
+    "zipcode_to": "14199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pontalinda",
+    "zipcode_from": "15718000",
+    "zipcode_to": "15719999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pontes Gestal",
+    "zipcode_from": "15560000",
+    "zipcode_to": "15569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Populina",
+    "zipcode_from": "15670000",
+    "zipcode_to": "15679999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Porangaba",
+    "zipcode_from": "18260000",
+    "zipcode_to": "18264999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Porto Feliz",
+    "zipcode_from": "18540000",
+    "zipcode_to": "18549999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Porto Ferreira",
+    "zipcode_from": "13660000",
+    "zipcode_to": "13669999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Potim",
+    "zipcode_from": "12525000",
+    "zipcode_to": "12529999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Potirendaba",
+    "zipcode_from": "15105000",
+    "zipcode_to": "15107999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pracinha",
+    "zipcode_from": "17790000",
+    "zipcode_to": "17799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Pradópolis",
+    "zipcode_from": "14850000",
+    "zipcode_to": "14859999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Praia Grande",
+    "zipcode_from": "11700001",
+    "zipcode_to": "11729999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Praia Grande",
+    "zipcode_from": "11700001",
+    "zipcode_to": "11729999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Pratânia",
+    "zipcode_from": "18660000",
+    "zipcode_to": "18669999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Presidente Alves",
+    "zipcode_from": "16670000",
+    "zipcode_to": "16679999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Presidente Bernardes",
+    "zipcode_from": "19300000",
+    "zipcode_to": "19349999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Presidente Epitácio",
+    "zipcode_from": "19470000",
+    "zipcode_to": "19499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Presidente Prudente",
+    "zipcode_from": "19000001",
+    "zipcode_to": "19159999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Presidente Prudente",
+    "zipcode_from": "19000001",
+    "zipcode_to": "19140999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Presidente Venceslau",
+    "zipcode_from": "19400000",
+    "zipcode_to": "19409999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Promissão",
+    "zipcode_from": "16370000",
+    "zipcode_to": "16399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Quadra",
+    "zipcode_from": "18255000",
+    "zipcode_to": "18259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Quatá",
+    "zipcode_from": "19780000",
+    "zipcode_to": "19799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Queiroz",
+    "zipcode_from": "17590000",
+    "zipcode_to": "17599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Queluz",
+    "zipcode_from": "12800000",
+    "zipcode_to": "12819999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Quintana",
+    "zipcode_from": "17670000",
+    "zipcode_to": "17679999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rafard",
+    "zipcode_from": "13370000",
+    "zipcode_to": "13374999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rancharia",
+    "zipcode_from": "19600000",
+    "zipcode_to": "19639999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Redenção da Serra",
+    "zipcode_from": "12170000",
+    "zipcode_to": "12179999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Regente Feijó",
+    "zipcode_from": "19570000",
+    "zipcode_to": "19579999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Reginópolis",
+    "zipcode_from": "17190000",
+    "zipcode_to": "17199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Registro",
+    "zipcode_from": "11900000",
+    "zipcode_to": "11909999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Restinga",
+    "zipcode_from": "14430000",
+    "zipcode_to": "14439999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeira",
+    "zipcode_from": "18380000",
+    "zipcode_to": "18384999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Bonito",
+    "zipcode_from": "13580000",
+    "zipcode_to": "13589999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Branco",
+    "zipcode_from": "18430000",
+    "zipcode_to": "18434999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Corrente",
+    "zipcode_from": "14445000",
+    "zipcode_to": "14449999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão do Sul",
+    "zipcode_from": "19930000",
+    "zipcode_to": "19939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão dos Índios",
+    "zipcode_from": "19380000",
+    "zipcode_to": "19399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Grande",
+    "zipcode_from": "18315000",
+    "zipcode_to": "18319999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Pires",
+    "zipcode_from": "09400001",
+    "zipcode_to": "09449999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Pires",
+    "zipcode_from": "09400001",
+    "zipcode_to": "09449999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Ribeirão Preto",
+    "zipcode_from": "14000001",
+    "zipcode_to": "14114999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ribeirão Preto",
+    "zipcode_from": "14000001",
+    "zipcode_to": "14109999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Rifaina",
+    "zipcode_from": "14490000",
+    "zipcode_to": "14499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rincão",
+    "zipcode_from": "14830000",
+    "zipcode_to": "14834999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rinópolis",
+    "zipcode_from": "17740000",
+    "zipcode_to": "17759999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rio Claro",
+    "zipcode_from": "13500001",
+    "zipcode_to": "13509999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rio Claro",
+    "zipcode_from": "13500001",
+    "zipcode_to": "13509999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Rio das Pedras",
+    "zipcode_from": "13390000",
+    "zipcode_to": "13399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rio Grande da Serra",
+    "zipcode_from": "09450000",
+    "zipcode_to": "09499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Riolândia",
+    "zipcode_from": "15495000",
+    "zipcode_to": "15499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Riversul",
+    "zipcode_from": "18470000",
+    "zipcode_to": "18474999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rosana",
+    "zipcode_from": "19273000",
+    "zipcode_to": "19274999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Roseira",
+    "zipcode_from": "12580000",
+    "zipcode_to": "12599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rubiácea",
+    "zipcode_from": "16750000",
+    "zipcode_to": "16789999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Rubinéia",
+    "zipcode_from": "15790000",
+    "zipcode_to": "15799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sabino",
+    "zipcode_from": "16440000",
+    "zipcode_to": "16449999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sagres",
+    "zipcode_from": "17710000",
+    "zipcode_to": "17719999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sales",
+    "zipcode_from": "14980000",
+    "zipcode_to": "14989999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sales Oliveira",
+    "zipcode_from": "14660000",
+    "zipcode_to": "14669999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Salesópolis",
+    "zipcode_from": "08970000",
+    "zipcode_to": "08999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Salmourão",
+    "zipcode_from": "17720000",
+    "zipcode_to": "17729999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Saltinho",
+    "zipcode_from": "13440000",
+    "zipcode_to": "13449999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Salto",
+    "zipcode_from": "13320001",
+    "zipcode_to": "13329999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Salto",
+    "zipcode_from": "13320001",
+    "zipcode_to": "13329999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Salto de Pirapora",
+    "zipcode_from": "18160000",
+    "zipcode_to": "18169999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Salto Grande",
+    "zipcode_from": "19920000",
+    "zipcode_to": "19929999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sandovalina",
+    "zipcode_from": "19250000",
+    "zipcode_to": "19259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Adélia",
+    "zipcode_from": "15950000",
+    "zipcode_to": "15959999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Albertina",
+    "zipcode_from": "15750000",
+    "zipcode_to": "15754999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Bárbara D'Oeste",
+    "zipcode_from": "13450001",
+    "zipcode_to": "13464999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Bárbara D'Oeste",
+    "zipcode_from": "13450001",
+    "zipcode_to": "13464999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Santa Branca",
+    "zipcode_from": "12380000",
+    "zipcode_to": "12399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Clara D'Oeste",
+    "zipcode_from": "15785000",
+    "zipcode_to": "15789999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Cruz da Conceição",
+    "zipcode_from": "13625000",
+    "zipcode_to": "13629999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Cruz da Esperança",
+    "zipcode_from": "14250000",
+    "zipcode_to": "14259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Cruz das Palmeiras",
+    "zipcode_from": "13650000",
+    "zipcode_to": "13659999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Cruz do Rio Pardo",
+    "zipcode_from": "18900000",
+    "zipcode_to": "18934999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Ernestina",
+    "zipcode_from": "15970000",
+    "zipcode_to": "15979999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Fé do Sul",
+    "zipcode_from": "15775000",
+    "zipcode_to": "15779999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Gertrudes",
+    "zipcode_from": "13510000",
+    "zipcode_to": "13514999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Isabel",
+    "zipcode_from": "07500000",
+    "zipcode_to": "07599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Lúcia",
+    "zipcode_from": "14825000",
+    "zipcode_to": "14829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Maria da Serra",
+    "zipcode_from": "17370000",
+    "zipcode_to": "17379999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Mercedes",
+    "zipcode_from": "17940000",
+    "zipcode_to": "17949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Rita do Passa Quatro",
+    "zipcode_from": "13670000",
+    "zipcode_to": "13689999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Rita D'Oeste",
+    "zipcode_from": "15780000",
+    "zipcode_to": "15784999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Rosa de Viterbo",
+    "zipcode_from": "14270000",
+    "zipcode_to": "14299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santa Salete",
+    "zipcode_from": "15768000",
+    "zipcode_to": "15769999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santana da Ponte Pensa",
+    "zipcode_from": "15765000",
+    "zipcode_to": "15767999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santana de Parnaíba",
+    "zipcode_from": "06500001",
+    "zipcode_to": "06549999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santana de Parnaíba",
+    "zipcode_from": "06500001",
+    "zipcode_to": "06549999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Santo Anastácio",
+    "zipcode_from": "19360000",
+    "zipcode_to": "19379999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo André",
+    "zipcode_from": "09000001",
+    "zipcode_to": "09299999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo André",
+    "zipcode_from": "09000001",
+    "zipcode_to": "09299999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Santo Antônio da Alegria",
+    "zipcode_from": "14390000",
+    "zipcode_to": "14399999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo Antônio de Posse",
+    "zipcode_from": "13830000",
+    "zipcode_to": "13834999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo Antônio do Aracanguá",
+    "zipcode_from": "16130000",
+    "zipcode_to": "16199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo Antônio do Jardim",
+    "zipcode_from": "13995000",
+    "zipcode_to": "13999999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo Antônio do Pinhal",
+    "zipcode_from": "12450000",
+    "zipcode_to": "12459999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santo Expedito",
+    "zipcode_from": "19190000",
+    "zipcode_to": "19199999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santópolis do Aguapeí",
+    "zipcode_from": "16240000",
+    "zipcode_to": "16249999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santos",
+    "zipcode_from": "11000001",
+    "zipcode_to": "11249999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Santos",
+    "zipcode_from": "11000001",
+    "zipcode_to": "11199999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Bento do Sapucaí",
+    "zipcode_from": "12490000",
+    "zipcode_to": "12499999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Bernardo do Campo",
+    "zipcode_from": "09600001",
+    "zipcode_to": "09899999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Bernardo do Campo",
+    "zipcode_from": "09600001",
+    "zipcode_to": "09899999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Caetano do Sul",
+    "zipcode_from": "09500001",
+    "zipcode_to": "09599999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Caetano do Sul",
+    "zipcode_from": "09500001",
+    "zipcode_to": "09599999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Carlos",
+    "zipcode_from": "13560001",
+    "zipcode_to": "13579999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Carlos",
+    "zipcode_from": "13560001",
+    "zipcode_to": "13577999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Francisco",
+    "zipcode_from": "15710000",
+    "zipcode_to": "15712999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São João da Boa Vista",
+    "zipcode_from": "13870001",
+    "zipcode_to": "13879999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São João da Boa Vista",
+    "zipcode_from": "13870001",
+    "zipcode_to": "13879999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São João das Duas Pontes",
+    "zipcode_from": "15640000",
+    "zipcode_to": "15649999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São João de Iracema",
+    "zipcode_from": "15315000",
+    "zipcode_to": "15319999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São João do Pau d'Alho",
+    "zipcode_from": "17970000",
+    "zipcode_to": "17979999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Joaquim da Barra",
+    "zipcode_from": "14600000",
+    "zipcode_to": "14609999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São José da Bela Vista",
+    "zipcode_from": "14440000",
+    "zipcode_to": "14444999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São José do Barreiro",
+    "zipcode_from": "12830000",
+    "zipcode_to": "12849999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São José do Rio Pardo",
+    "zipcode_from": "13720000",
+    "zipcode_to": "13729999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São José do Rio Preto",
+    "zipcode_from": "15000001",
+    "zipcode_to": "15104999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São José do Rio Preto",
+    "zipcode_from": "15000001",
+    "zipcode_to": "15104999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São José dos Campos",
+    "zipcode_from": "12200001",
+    "zipcode_to": "12249999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São José dos Campos",
+    "zipcode_from": "12200001",
+    "zipcode_to": "12248999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Lourenço da Serra",
+    "zipcode_from": "06890000",
+    "zipcode_to": "06899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Luiz do Paraitinga",
+    "zipcode_from": "12140000",
+    "zipcode_to": "12169999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Manuel",
+    "zipcode_from": "18650000",
+    "zipcode_to": "18659999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Miguel Arcanjo",
+    "zipcode_from": "18230000",
+    "zipcode_to": "18239999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Paulo",
+    "zipcode_from": "01000001",
+    "zipcode_to": "05999999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Paulo",
+    "zipcode_from": "08000000",
+    "zipcode_to": "08499999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Paulo",
+    "zipcode_from": "01000001",
+    "zipcode_to": "05999999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Paulo",
+    "zipcode_from": "08000000",
+    "zipcode_to": "08499999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Pedro",
+    "zipcode_from": "13520000",
+    "zipcode_to": "13524999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Pedro do Turvo",
+    "zipcode_from": "18940000",
+    "zipcode_to": "18949999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Roque",
+    "zipcode_from": "18130001",
+    "zipcode_to": "18146999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Roque",
+    "zipcode_from": "18130001",
+    "zipcode_to": "18146999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Sebastião",
+    "zipcode_from": "11600001",
+    "zipcode_to": "11629999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Sebastião",
+    "zipcode_from": "11600001",
+    "zipcode_to": "11629999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "São Sebastião da Grama",
+    "zipcode_from": "13790000",
+    "zipcode_to": "13799999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Simão",
+    "zipcode_from": "14200000",
+    "zipcode_to": "14209999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Vicente",
+    "zipcode_from": "11300001",
+    "zipcode_to": "11399999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "São Vicente",
+    "zipcode_from": "11300001",
+    "zipcode_to": "11399999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Sarapuí",
+    "zipcode_from": "18225000",
+    "zipcode_to": "18229999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sarutaiá",
+    "zipcode_from": "18840000",
+    "zipcode_to": "18859999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sebastianópolis do Sul",
+    "zipcode_from": "15180000",
+    "zipcode_to": "15189999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Serra Azul",
+    "zipcode_from": "14230000",
+    "zipcode_to": "14239999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Serra Negra",
+    "zipcode_from": "13930000",
+    "zipcode_to": "13939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Serrana",
+    "zipcode_from": "14150000",
+    "zipcode_to": "14159999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sertãozinho",
+    "zipcode_from": "14160001",
+    "zipcode_to": "14179999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sertãozinho",
+    "zipcode_from": "14160001",
+    "zipcode_to": "14179999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Sete Barras",
+    "zipcode_from": "11910000",
+    "zipcode_to": "11919999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Severínia",
+    "zipcode_from": "14735000",
+    "zipcode_to": "14739999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Silveiras",
+    "zipcode_from": "12690000",
+    "zipcode_to": "12699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Socorro",
+    "zipcode_from": "13960000",
+    "zipcode_to": "13969999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sorocaba",
+    "zipcode_from": "18000001",
+    "zipcode_to": "18109999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sorocaba",
+    "zipcode_from": "18000001",
+    "zipcode_to": "18109999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Sud Mennucci",
+    "zipcode_from": "15360000",
+    "zipcode_to": "15369999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sumaré",
+    "zipcode_from": "13170001",
+    "zipcode_to": "13182999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Sumaré",
+    "zipcode_from": "13170001",
+    "zipcode_to": "13182999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Suzanápolis",
+    "zipcode_from": "15380000",
+    "zipcode_to": "15384999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Suzano",
+    "zipcode_from": "08600001",
+    "zipcode_to": "08699999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Suzano",
+    "zipcode_from": "08600001",
+    "zipcode_to": "08699999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Tabapuã",
+    "zipcode_from": "15880000",
+    "zipcode_to": "15884999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tabatinga",
+    "zipcode_from": "14910000",
+    "zipcode_to": "14919999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taboão da Serra",
+    "zipcode_from": "06750001",
+    "zipcode_to": "06799999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taboão da Serra",
+    "zipcode_from": "06750001",
+    "zipcode_to": "06799999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Taciba",
+    "zipcode_from": "19590000",
+    "zipcode_to": "19599999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taguaí",
+    "zipcode_from": "18890000",
+    "zipcode_to": "18899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taiaçu",
+    "zipcode_from": "14725000",
+    "zipcode_to": "14729999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taiúva",
+    "zipcode_from": "14720000",
+    "zipcode_to": "14724999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tambaú",
+    "zipcode_from": "13710000",
+    "zipcode_to": "13714999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tanabi",
+    "zipcode_from": "15170000",
+    "zipcode_to": "15179999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tapiraí",
+    "zipcode_from": "18180000",
+    "zipcode_to": "18184999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tapiratiba",
+    "zipcode_from": "13760000",
+    "zipcode_to": "13769999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taquaral",
+    "zipcode_from": "14765000",
+    "zipcode_to": "14769999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taquaritinga",
+    "zipcode_from": "15900000",
+    "zipcode_to": "15909999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taquarituba",
+    "zipcode_from": "18740000",
+    "zipcode_to": "18744999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taquarivaí",
+    "zipcode_from": "18425000",
+    "zipcode_to": "18429999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tarabai",
+    "zipcode_from": "19210000",
+    "zipcode_to": "19219999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tarumã",
+    "zipcode_from": "19820000",
+    "zipcode_to": "19829999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tatuí",
+    "zipcode_from": "18270001",
+    "zipcode_to": "18284999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tatuí",
+    "zipcode_from": "18270001",
+    "zipcode_to": "18282999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Taubaté",
+    "zipcode_from": "12000001",
+    "zipcode_to": "12119999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Taubaté",
+    "zipcode_from": "12000001",
+    "zipcode_to": "12119999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Tejupá",
+    "zipcode_from": "18830000",
+    "zipcode_to": "18839999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Teodoro Sampaio",
+    "zipcode_from": "19280000",
+    "zipcode_to": "19299999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Terra Roxa",
+    "zipcode_from": "14745000",
+    "zipcode_to": "14749999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tietê",
+    "zipcode_from": "18530000",
+    "zipcode_to": "18534999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Timburi",
+    "zipcode_from": "18860000",
+    "zipcode_to": "18869999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Torre de Pedra",
+    "zipcode_from": "18265000",
+    "zipcode_to": "18269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Torrinha",
+    "zipcode_from": "17360000",
+    "zipcode_to": "17369999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Trabiju",
+    "zipcode_from": "14935000",
+    "zipcode_to": "14939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tremembé",
+    "zipcode_from": "12120000",
+    "zipcode_to": "12129999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Três Fronteiras",
+    "zipcode_from": "15770000",
+    "zipcode_to": "15772999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tuiuti",
+    "zipcode_from": "12930000",
+    "zipcode_to": "12934999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tupã",
+    "zipcode_from": "17600001",
+    "zipcode_to": "17629999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Tupã",
+    "zipcode_from": "17600001",
+    "zipcode_to": "17626999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Tupi Paulista",
+    "zipcode_from": "17930000",
+    "zipcode_to": "17939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Turiúba",
+    "zipcode_from": "15280000",
+    "zipcode_to": "15284999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Turmalina",
+    "zipcode_from": "15755000",
+    "zipcode_to": "15759999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ubarana",
+    "zipcode_from": "15225000",
+    "zipcode_to": "15229999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ubatuba",
+    "zipcode_from": "11680000",
+    "zipcode_to": "11699999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Ubirajara",
+    "zipcode_from": "17440000",
+    "zipcode_to": "17449999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Uchoa",
+    "zipcode_from": "15890000",
+    "zipcode_to": "15894999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "União Paulista",
+    "zipcode_from": "15250000",
+    "zipcode_to": "15259999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Urânia",
+    "zipcode_from": "15760000",
+    "zipcode_to": "15762999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Uru",
+    "zipcode_from": "16650000",
+    "zipcode_to": "16659999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Urupês",
+    "zipcode_from": "15850000",
+    "zipcode_to": "15859999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Valentim Gentil",
+    "zipcode_from": "15520000",
+    "zipcode_to": "15524999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Valinhos",
+    "zipcode_from": "13270001",
+    "zipcode_to": "13279999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Valinhos",
+    "zipcode_from": "13270001",
+    "zipcode_to": "13279999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Valparaíso",
+    "zipcode_from": "16880000",
+    "zipcode_to": "16899999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vargem",
+    "zipcode_from": "12935000",
+    "zipcode_to": "12939999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vargem Grande do Sul",
+    "zipcode_from": "13880000",
+    "zipcode_to": "13889999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vargem Grande Paulista",
+    "zipcode_from": "06730000",
+    "zipcode_to": "06749999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Várzea Paulista",
+    "zipcode_from": "13220001",
+    "zipcode_to": "13229999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Várzea Paulista",
+    "zipcode_from": "13220001",
+    "zipcode_to": "13229999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Vera Cruz",
+    "zipcode_from": "17560000",
+    "zipcode_to": "17569999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vinhedo",
+    "zipcode_from": "13280001",
+    "zipcode_to": "13289999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vinhedo",
+    "zipcode_from": "13280001",
+    "zipcode_to": "13289999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Viradouro",
+    "zipcode_from": "14740000",
+    "zipcode_to": "14744999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vista Alegre do Alto",
+    "zipcode_from": "15920000",
+    "zipcode_to": "15929999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Vitória Brasil",
+    "zipcode_from": "15713000",
+    "zipcode_to": "15714999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Votorantim",
+    "zipcode_from": "18110001",
+    "zipcode_to": "18119999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Votorantim",
+    "zipcode_from": "18110001",
+    "zipcode_to": "18119999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Votuporanga",
+    "zipcode_from": "15500001",
+    "zipcode_to": "15519999",
+    "situation": "Codificado por logradouros",
+    "zipcode_type": "Total do município"
+  },
+  {
+    "locale": "Votuporanga",
+    "zipcode_from": "15500001",
+    "zipcode_to": "15515999",
+    "situation": "Codificada por logradouros",
+    "zipcode_type": "Exclusiva da sede urbana"
+  },
+  {
+    "locale": "Zacarias",
+    "zipcode_from": "15265000",
+    "zipcode_to": "15269999",
+    "situation": "Não codificada por logradouros",
+    "zipcode_type": "Total do município"
+  }
+]
