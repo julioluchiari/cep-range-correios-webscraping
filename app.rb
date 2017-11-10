@@ -12,7 +12,7 @@ form_data = {
   qtdrow: 100
 }
 
-ufs = %w[AC AL AM AP BA CE DF ES GO MA MG MS MT PA 
+ufs = %w[AC AL AM AP BA CE DF ES GO MA MG MS MT PA
          PB PE PI PR RJ RN RO RR RS SC SE SP TO]
 
 zipcode_hash = {}
@@ -52,13 +52,12 @@ ufs.each do |uf|
       end
 
       range_array.push(locale: values[0],
-                        zipcode_from: values[1],
-                        zipcode_to: values[2],
-                        situation: values[3],
-                        zipcode_type: values[4])
+                       from: values[1],
+                       to: values[2],
+                       situation: values[3],
+                       zipcode_type: values[4])
     end
   end
-
 
   zipcode_hash[uf] = range_array
 
